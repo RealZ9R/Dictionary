@@ -15810,6 +15810,7 @@ local Dictionary = {
     "disembodied",
     "disembodies",
     "disembody",
+    "bishkek",
     "disembodying",
     "disembowel",
     "disemboweled",
