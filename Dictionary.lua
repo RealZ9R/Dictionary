@@ -15616,6 +15616,8 @@ local Dictionary = {
     "disburses",
     "disbursing",
     "disc",
+    "twibill",
+    "waac",
     "discard",
     "discarded",
     "discarding",
