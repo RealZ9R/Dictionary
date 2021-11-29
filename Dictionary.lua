@@ -63363,5 +63363,7 @@ local Dictionary = {
     "zwieback",
     "zygote",
     "zygotes",
+    "kugel",
+    "kugels",
   }
   return Dictionary
